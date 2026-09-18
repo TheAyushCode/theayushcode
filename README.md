@@ -47,10 +47,6 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
 ## 🚀 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/TheAyushCode/PDA-Visualizer">
-    <img src="https://img.shields.io/badge/Project-PDA--Visualizer-blue?style=for-the-badge&logo=github" alt="PDA-Visualizer" />
-  </a>
-  &nbsp;
   <a href="https://github.com/TheAyushCode/Portfolio_website">
     <img src="https://img.shields.io/badge/Project-Portfolio--Website-purple?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
