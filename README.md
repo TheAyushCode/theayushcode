@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ayush+Narayan;Frontend+Developer;CSE+Student+%7C+Open+Source+Enthusiast;React+%7C+Tailwind+%7C+Python" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Hello!%20I'm%20Ayush%20Narayan&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;CSE+Student+%7C+Open+Source+Enthusiast;React+%7C+Tailwind+%7C+Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,15 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheAyushCode&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge&logo=starship&logoColor=white" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheAyushCode&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=TheAyushCode&label=Profile%20Views&color=00D4FF&style=for-the-badge&logo=starship&logoColor=white" alt="Profile Views" />
 </p>
 
 ---
@@ -48,26 +44,30 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/TheAyushCode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAyushCode&repo=TheAyushCode&theme=dark" alt="Featured Repo" />
+  <a href="https://github.com/TheAyushCode/PDA-Visualizer">
+    <img src="https://img.shields.io/badge/Project-PDA--Visualizer-blue?style=for-the-badge&logo=github" alt="PDA-Visualizer" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/TheAyushCode/Portfolio_website">
+    <img src="https://img.shields.io/badge/Project-Portfolio--Website-purple?style=for-the-badge&logo=github" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/TheAyushCode/Scientific-calculator">
+    <img src="https://img.shields.io/badge/Project-Scientific--Calculator-green?style=for-the-badge&logo=github" alt="Calculator" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub & Coding Stats
+## 📊 GitHub Streak & Activity
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=TheAyushCode&theme=dark&hide_border=false" alt="GitHub Streak" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/TheAyushCode?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
@@ -87,12 +87,6 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
 
 ---
 
-## 💡 Daily Motivation & Fun
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Tech Quote" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random Dev Joke" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" alt="Footer" />
 </p>
