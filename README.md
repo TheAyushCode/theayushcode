@@ -43,8 +43,8 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheAyushCode&show_icons=true&theme=dark&rank_icon=github" alt="Ayush's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAyushCode&layout=compact&theme=dark" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheAyushCode&show_icons=true&theme=dark&rank_icon=circle&border_radius=8" alt="Ayush's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAyushCode&theme=dark&border_radius=8" alt="Most Used Languages" />
 </p>
 
 <p align="center">
