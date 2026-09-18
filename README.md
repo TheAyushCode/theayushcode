@@ -20,6 +20,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheAyushCode&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 💫 About Me
 I’m **Ayush Narayan**, a passionate Computer Science Engineering student currently pursuing my Diploma (2024-2027) at **Government Polytechnic Vaishali**. I have a keen interest in exploring emerging technologies, frontend development, and continuously building my skills in software development, data structures, and algorithms.
 
@@ -40,17 +48,26 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheAyushCode&show_icons=true&theme=dark&rank_icon=circle&border_radius=8&cache_seconds=1800" alt="Ayush's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAyushCode&theme=dark&border_radius=8&cache_seconds=1800" alt="Most Used Languages" />
+  <a href="https://github.com/TheAyushCode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAyushCode&repo=TheAyushCode&theme=dark" alt="Featured Repo" />
+  </a>
 </p>
+
+---
+
+### 📊 GitHub & Coding Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=TheAyushCode&theme=dark&hide_border=false" alt="GitHub Streak" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/TheAyushCode?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
@@ -66,4 +83,16 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheAyushCode/TheAyushCode/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheAyushCode/TheAyushCode/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 💡 Daily Motivation & Fun
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Tech Quote" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random Dev Joke" />
 </p>
