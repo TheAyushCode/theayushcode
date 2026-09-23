@@ -1,88 +1,219 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Hello!%20I'm%20Ayush%20Narayan&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header" />
-</p>
+# 👋 Hi, I'm Ayush Narayan
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;CSE+Student+%7C+Open+Source+Enthusiast;React+%7C+Tailwind+%7C+Python" alt="Typing SVG" />
-</p>
+### 💻 Frontend Developer | CSE Diploma Student | Open to Learning & Building
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayushnarayan-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:narayan.ayush0701@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/ambasta_ayush?igsh=anVvbWQ2enczNHl3">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+I'm a **Computer Science & Engineering student at Government Polytechnic Vaishali** who enjoys building modern, responsive and user-friendly web applications.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheAyushCode&label=Profile%20Views&color=00D4FF&style=for-the-badge&logo=starship&logoColor=white" alt="Profile Views" />
-</p>
+I mainly work with **HTML, CSS, JavaScript, React, Vite and Tailwind CSS**, while also exploring **Java, Python, C and MySQL**.
+
+I like turning ideas into real projects, learning new technologies and continuously improving my development skills.
 
 ---
 
-## 💫 About Me
-I’m **Ayush Narayan**, a passionate Computer Science Engineering student currently pursuing my Diploma (2024-2027) at **Government Polytechnic Vaishali**. I have a keen interest in exploring emerging technologies, frontend development, and continuously building my skills in software development, data structures, and algorithms.
+## 🚀 About Me
 
-- 🔭 **Current Focus:** Building responsive web applications using React and Tailwind CSS.
-- 🌱 **Learning:** Data Science concepts, advanced Python, and backend workflows.
-- 💼 **Experience:** Former Python Programming Intern at NIELIT Muzaffarpur & Data Science Intern at NIELIT Patna.
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React, and Python programming.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,c,java,php,mysql,git,github,vscode,eclipse&perline=7" />
-  </a>
-</p>
+* 🎓 CSE Student — Government Polytechnic Vaishali
+* 💻 Focused on **Frontend & Web Development**
+* ⚛️ Currently working with **React + Vite + Tailwind CSS**
+* 🌱 Learning and improving **Java, Python, SQL & Full-Stack Development**
+* 🔨 Interested in building practical and useful projects
+* 🤝 Open to internships, collaborations and interesting projects
+* 📍 Bihar, India
 
 ---
 
-## 🚀 Featured Repositories
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/TheAyushCode/Portfolio_website">
-    <img src="https://img.shields.io/badge/Project-Portfolio--Website-purple?style=for-the-badge&logo=github" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/TheAyushCode/Scientific-calculator">
-    <img src="https://img.shields.io/badge/Project-Scientific--Calculator-green?style=for-the-badge&logo=github" alt="Calculator" />
-  </a>
-</p>
+### 💻 Languages
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-## 📊 GitHub Streak & Activity
+### ⚛️ Frameworks & Libraries
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=TheAyushCode&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </a>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAyushCode&theme=github-dark&hide_border=false" alt="GitHub Activity Graph" />
-</p>
+### 🧰 Tools
 
----
-
-<h4 align="center">My Contribution Graph 🐍</h4>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheAyushCode/TheAyushCode/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheAyushCode/TheAyushCode/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheAyushCode/TheAyushCode/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse\&logoColor=white)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" alt="Footer" />
-</p>
+## 🌟 Featured Projects
+
+### 🌾 Kishan · Tech — Smart Indian Crop & Agri-Guide
+
+A modern web application designed around Indian agriculture, helping users explore crops according to season and soil while providing useful agricultural information.
+
+**Tech:** React • JavaScript • Tailwind CSS • APIs • Full-Stack Architecture
+
+🔗 **Live:** https://kishan-tech.vercel.app/
+
+---
+
+### 🧮 Scientific Calculator
+
+A responsive scientific calculator built with a clean interface and JavaScript-based calculations.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 **Live Demo:** https://theayushcode.github.io/Scientific-calculator/
+
+---
+
+### 💼 Personal Portfolio
+
+My personal developer portfolio showcasing my skills, projects, experience and learning journey.
+
+**Tech:** React • Vite • Tailwind CSS
+
+🔗 **Portfolio:** https://theayushcode.github.io/My_portfolio/
+
+---
+
+## 💼 Experience
+
+### 🐍 Python Programming Intern — NIELIT Muzaffarpur
+
+**June 2025**
+
+* Completed a 4-week remote Python Programming Internship
+* Worked on programming concepts and practical Python development
+
+### 🌐 Frontend Developer Intern — Codexintern
+
+**July 2025**
+
+* Worked on frontend development
+* Practiced building responsive and user-friendly web interfaces
+
+---
+
+## 🎓 Education
+
+**Diploma in Computer Science & Engineering**
+
+Government Polytechnic Vaishali
+**2024 – 2027**
+
+---
+
+## 📜 Certifications
+
+* Python Programming — Spoken Tutorial
+* C Training — Spoken Tutorial
+* CSS Training — Spoken Tutorial
+* AI For All — MyBharat
+* Nasha Mukt Bharat Abhiyaan
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=theayushcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushcode&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=theayushcode&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/theayushcode/theayushcode/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://theayushcode.github.io/My_portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/theayushcode" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayushnarayan-dev/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/TheAyushCode_X" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 💡 Currently Learning
+
+```text
+React & Modern Frontend Development
+        ↓
+Java & Object-Oriented Programming
+        ↓
+SQL & Database Concepts
+        ↓
+Backend & Full-Stack Development
+        ↓
+Building Real-World Projects
+```
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build more real-world projects
+* ⚛️ Improve React & frontend architecture skills
+* ☕ Strengthen Java development
+* 🗄️ Improve SQL & database knowledge
+* 🌐 Explore full-stack development
+* 🤝 Contribute to open-source projects
+* 💼 Gain more internship and project experience
+
+---
+
+## ✨ Developer Philosophy
+
+> **Learn → Build → Break → Fix → Improve → Repeat**
+
+I believe the best way to learn development is by **building real projects and continuously improving them.**
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects useful, consider giving them a star!
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
