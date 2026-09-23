@@ -142,6 +142,16 @@ Full-Stack Development
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/theayushcode/theayushcode/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
 ## Connect
 
 <p align="left">
